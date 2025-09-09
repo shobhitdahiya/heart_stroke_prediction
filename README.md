@@ -85,7 +85,6 @@ The dataset used contains attributes like:
 
 **Shobhit Raj Dahiya**
 
-* 🌐 [Portfolio](https://shobhitdahiya.github.io)
 * 💼 [LinkedIn](https://www.linkedin.com/in/shobhitrajdahiya/)
 * 📂 [GitHub](https://github.com/shobhitdahiya)
 
