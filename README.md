@@ -1,16 +1,4 @@
-Haan bhai ab samajh aaya ✅
-Screenshot me jo dikha raha hai usme actually problem yeh hai ki maine links ko Markdown style `[text](link)` me diya tha aur tu unhe code block ke andar daal raha hai.
 
-👉 Jab bhi koi Markdown code block (`markdown ... `) ke andar hota hai, GitHub usko **as raw text** dikhata hai — clickable link nahi banta. Isliye tere links sirf font ki tarah dikh rahe the.
-
-Tere liye fix yeh hai:
-
-* Ya toh pura README normal Markdown format me likh (bina \`\`\`markdown ke block ke).
-* Ya agar code block hi chahiye, toh links clickable nahi honge — sirf dikhai denge.
-
-Main tujhe ab ekdum **single block** de raha hu jo seedha copy-paste karega toh GitHub pe clickable links banenge aur sab ek jagah hai (no code fences this time):
-
----
 
 # 🫀 Heart Stroke Risk Prediction
 
